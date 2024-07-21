@@ -67,3 +67,6 @@ async function nextQuestion() {
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);
 });
+
+
+// to start it you need " nodemon solution.js "
